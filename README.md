@@ -15,3 +15,10 @@ An AI-powered Applicant Tracking System (ATS) Resume Tracker that helps job seek
 - ATS Score: Calculates similarity between resume and JD.
 - Keyword Gap Analysis: Highlights what’s missing in the resume.
 - User-Friendly Interface: Upload files and view results in seconds.
+
+# 🤝 Contribution
+
+- Contributions are welcome!
+- Fork repo
+- Create a feature branch
+- Submit a pull request 🚀
