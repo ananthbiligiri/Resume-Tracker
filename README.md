@@ -2,7 +2,7 @@
 
 An AI-powered Applicant Tracking System (ATS) Resume Tracker that helps job seekers check their resume compatibility with job descriptions (JD).
 
-✅ Upload your resume (PDF/DOCX format)
+- ✅ Upload your resume (PDF/DOCX format)
 ✅ Paste or upload a job description
 ✅ Get your ATS score (percentage match)
 ✅ See matched & missing skills/keywords
